@@ -1,3 +1,6 @@
+#expo app
+.expo/
+
 # Logs
 logs
 *.log
@@ -56,4 +59,5 @@ typings/
 
 # dotenv environment variables file
 .env
+
 
