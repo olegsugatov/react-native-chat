@@ -6,7 +6,7 @@ import {
 } from 'react-native';
 
 import Home from './src/components/Home';
-import Chat from './src//components/Chat';
+import Chat from './src/components/Chat';
 
 import {
   Router,
